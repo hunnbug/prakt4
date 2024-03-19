@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODING\\mocha\\c#\\prakt4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06AE155E-952A-4A26-A73F-2298477AAAC3}|prakt4\\prakt4.csproj|d:\\coding\\mocha\\c#\\prakt4\\prakt4\\snastiwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06AE155E-952A-4A26-A73F-2298477AAAC3}|prakt4\\prakt4.csproj|solutionrelative:prakt4\\snastiwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06AE155E-952A-4A26-A73F-2298477AAAC3}|prakt4\\prakt4.csproj|d:\\coding\\mocha\\c#\\prakt4\\prakt4\\snastiwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06AE155E-952A-4A26-A73F-2298477AAAC3}|prakt4\\prakt4.csproj|solutionrelative:prakt4\\snastiwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06AE155E-952A-4A26-A73F-2298477AAAC3}|prakt4\\prakt4.csproj|d:\\coding\\mocha\\c#\\prakt4\\prakt4\\sotrudnikiwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06AE155E-952A-4A26-A73F-2298477AAAC3}|prakt4\\prakt4.csproj|solutionrelative:prakt4\\sotrudnikiwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06AE155E-952A-4A26-A73F-2298477AAAC3}|prakt4\\prakt4.csproj|D:\\CODING\\mocha\\c#\\prakt4\\prakt4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06AE155E-952A-4A26-A73F-2298477AAAC3}|prakt4\\prakt4.csproj|solutionrelative:prakt4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06AE155E-952A-4A26-A73F-2298477AAAC3}|prakt4\\prakt4.csproj|D:\\CODING\\mocha\\c#\\prakt4\\prakt4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06AE155E-952A-4A26-A73F-2298477AAAC3}|prakt4\\prakt4.csproj|solutionrelative:prakt4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06AE155E-952A-4A26-A73F-2298477AAAC3}|prakt4\\prakt4.csproj|D:\\CODING\\mocha\\c#\\prakt4\\prakt4\\ds.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{06AE155E-952A-4A26-A73F-2298477AAAC3}|prakt4\\prakt4.csproj|solutionrelative:prakt4\\ds.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06AE155E-952A-4A26-A73F-2298477AAAC3}|prakt4\\prakt4.csproj|D:\\CODING\\mocha\\c#\\prakt4\\prakt4\\skladiwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06AE155E-952A-4A26-A73F-2298477AAAC3}|prakt4\\prakt4.csproj|solutionrelative:prakt4\\skladiwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SnastiWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c#\\prakt4\\prakt4\\SnastiWindow.xaml.cs",
+              "RelativeDocumentMoniker": "prakt4\\SnastiWindow.xaml.cs",
+              "ToolTip": "D:\\CODING\\mocha\\c#\\prakt4\\prakt4\\SnastiWindow.xaml.cs",
+              "RelativeToolTip": "prakt4\\SnastiWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:49:23.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SnastiWindow.xaml",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c#\\prakt4\\prakt4\\SnastiWindow.xaml",
+              "RelativeDocumentMoniker": "prakt4\\SnastiWindow.xaml",
+              "ToolTip": "D:\\CODING\\mocha\\c#\\prakt4\\prakt4\\SnastiWindow.xaml",
+              "RelativeToolTip": "prakt4\\SnastiWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-19T21:35:00.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DS.xsd",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c#\\prakt4\\prakt4\\DS.xsd",
+              "RelativeDocumentMoniker": "prakt4\\DS.xsd",
+              "ToolTip": "D:\\CODING\\mocha\\c#\\prakt4\\prakt4\\DS.xsd",
+              "RelativeToolTip": "prakt4\\DS.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-03-19T14:55:32.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SotrudnikiWindow.xaml",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c#\\prakt4\\prakt4\\SotrudnikiWindow.xaml",
+              "RelativeDocumentMoniker": "prakt4\\SotrudnikiWindow.xaml",
+              "ToolTip": "D:\\CODING\\mocha\\c#\\prakt4\\prakt4\\SotrudnikiWindow.xaml",
+              "RelativeToolTip": "prakt4\\SotrudnikiWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-19T14:53:36.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SkladiWindow.xaml",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c#\\prakt4\\prakt4\\SkladiWindow.xaml",
+              "RelativeDocumentMoniker": "prakt4\\SkladiWindow.xaml",
+              "ToolTip": "D:\\CODING\\mocha\\c#\\prakt4\\prakt4\\SkladiWindow.xaml",
+              "RelativeToolTip": "prakt4\\SkladiWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-19T14:53:27.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c#\\prakt4\\prakt4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "prakt4\\MainWindow.xaml",
+              "ToolTip": "D:\\CODING\\mocha\\c#\\prakt4\\prakt4\\MainWindow.xaml",
+              "RelativeToolTip": "prakt4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-19T14:30:37.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c#\\prakt4\\prakt4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "prakt4\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\CODING\\mocha\\c#\\prakt4\\prakt4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "prakt4\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAApwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T14:30:37.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
